@@ -27,8 +27,3 @@ This tool is especially useful for designing mechanical keyboard parts (like cus
 
 5. **Check the Output:**
    The script applies the object's scale and creates layered slices at the exact same location. Hide the original object or move the generated slices along the Z-axis (`G` -> `Z`) to see the result.
-
-## Script Code (`slice_script.py`)
-
-```python
-# (You can include the final working Python script here inside your repository)
